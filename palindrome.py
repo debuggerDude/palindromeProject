@@ -4,6 +4,7 @@ print(size)
 reverse=""
 i=size
 
+
 if size<2:
     if size==0:
         print("empty string")
